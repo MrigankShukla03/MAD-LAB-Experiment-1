@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD Exp 1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="login_title">Authentication</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="student_name">Name: Mrigank Shukla</string>
+    <string name="student_usn">USN: 25MCAR0109</string>
+</resources>
