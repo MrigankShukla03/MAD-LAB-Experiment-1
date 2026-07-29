@@ -11,7 +11,7 @@ This repository contains all 12 experiments performed as part of the Mobile Appl
 | Experiment | Title | Status |
 | :--- | :--- | :--- |
 | [Experiment 01](Experiment%2001/) | Authentication & Dashboard Implementation | ✅ Completed |
-| [Experiment 02](Experiment%2002/) | Placeholder for Experiment 02 | 📝 Planned |
+| [Experiment 02](Experiment%2002/) | Activity Lifecycle Tracking | ✅ Completed |
 | [Experiment 03](Experiment%2003/) | Placeholder for Experiment 03 | 📝 Planned |
 | [Experiment 04](Experiment%2004/) | Placeholder for Experiment 04 | 📝 Planned |
 | [Experiment 05](Experiment%2005/) | Placeholder for Experiment 05 | 📝 Planned |
