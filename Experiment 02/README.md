@@ -11,7 +11,18 @@ This experiment demonstrates the Android Activity Lifecycle. It tracks and displ
 ## Scenario
 1. **Authentication:** User enters Name and USN.
 2. **Dashboard:** Provides three navigation options (Home, Activity Details, Account).
-3. **Lifecycle Tracking:** In the "Activity Details" section, every lifecycle event is logged to the screen and system logs (Logcat).
+3. **Lifecycle Tracking:** In the "Activity Details" section, every lifecycle event is logged with a unique descriptive message and student identity.
+
+## Custom Messages
+For each method call, the following custom message is displayed:
+- **Header:** `Name: Mrigank Shukla | USN: 25MCAR0109`
+- **Descriptions:**
+    - `onCreate`: "System is creating the Activity."
+    - `onResume`: "Activity is now interactive (Foreground)."
+    - ... and others.
+
+## Demo Video
+The recording shows the full flow from Login to Lifecycle tracking.
 
 ## Test Cases & Screenshots
 
@@ -19,16 +30,11 @@ This experiment demonstrates the Android Activity Lifecycle. It tracks and displ
 ![Login Screen](e2_login.png)
 
 ### 2. Dashboard
-Displays the user's name and USN with navigation options.
 ![Dashboard Screen](e2_dashboard.png)
 
-### 3. Activity Lifecycle Tracking
-Shows the sequence of methods executed during transitions.
-- **Initial Start:** `onCreate` -> `onStart` -> `onResume`.
+### 3. Activity Lifecycle Tracking (Updated)
+Captured logs showing the execution of lifecycle methods with custom descriptions.
 ![Initial Lifecycle](e2_lifecycle_1.png)
-
-- **After Resuming from Background:** `onRestart` -> `onStart` -> `onResume`.
-![Resumed Lifecycle](e2_lifecycle_2.png)
 
 ---
 **Developer:** Mrigank Shukla  
