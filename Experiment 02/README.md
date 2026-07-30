@@ -22,7 +22,9 @@ For each method call, the following custom message is displayed:
     - ... and others.
 
 ## Demo Video
-The recording shows the full flow from Login to Lifecycle tracking.
+The following video shows the full application flow, from authentication to activity lifecycle tracking.
+
+[Download/Watch Demo Video](demo_exp2.mp4)
 
 ## Test Cases & Screenshots
 
