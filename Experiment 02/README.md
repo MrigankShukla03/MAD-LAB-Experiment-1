@@ -24,7 +24,7 @@ For each method call, the following custom message is displayed:
 ## Demo Video
 The following video shows the full application flow, from authentication to activity lifecycle tracking.
 
-[Download/Watch Demo Video](demo_exp2.mp4)
+![Demo Video](demo_exp2.mp4)
 
 ## Test Cases & Screenshots
 
