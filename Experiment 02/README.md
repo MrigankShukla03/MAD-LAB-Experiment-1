@@ -24,19 +24,23 @@ For each method call, the following custom message is displayed:
 ## Demo Video
 The following video shows the full application flow, from authentication to activity lifecycle tracking.
 
-![Demo Video](demo_exp2.mp4)
+<video src="demo_exp2.mp4" width="320" height="640" controls></video>
+
+*If the video above doesn't load, you can [view it directly here](demo_exp2.mp4).*
 
 ## Test Cases & Screenshots
 
 ### 1. Authentication Page
-![Login Screen](e2_login.png)
+The login screen where student details are entered.
+![Login Screen](screenshots/login.png)
 
 ### 2. Dashboard
-![Dashboard Screen](e2_dashboard.png)
+Navigation hub after successful authentication.
+![Dashboard Screen](screenshots/dashboard.png)
 
-### 3. Activity Lifecycle Tracking (Updated)
-Captured logs showing the execution of lifecycle methods with custom descriptions.
-![Initial Lifecycle](e2_lifecycle_1.png)
+### 3. Activity Lifecycle Tracking
+Live logs of lifecycle method calls with custom messages.
+![Lifecycle Logs](screenshots/lifecycle_initial.png)
 
 ---
 **Developer:** Mrigank Shukla  
